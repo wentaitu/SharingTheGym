@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/plan"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/plan" />
+        <item
+            android:id="@+id/fitnessGuide"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/fitnessGuide" />
+        <item
+            android:id="@+id/wallet"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/wallet" />
+        <item
+            android:id="@+id/scan"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/scan" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/invite"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/invite" />
+            <item
+                android:id="@+id/friends"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/friends" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/about" />
+
+        </menu>
+    </item>
+
+</menu>
