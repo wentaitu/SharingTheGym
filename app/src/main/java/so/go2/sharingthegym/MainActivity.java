@@ -3,16 +3,16 @@ package so.go2.sharingthegym;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.util.Log;
-import android.view.View;
 import android.support.design.widget.NavigationView;
+import android.support.design.widget.Snackbar;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 import com.amap.api.location.AMapLocation;
@@ -29,6 +29,7 @@ import com.amap.api.maps.model.LatLng;
 import com.amap.api.maps.model.Marker;
 import com.amap.api.maps.model.MarkerOptions;
 import com.amap.api.maps.model.MyLocationStyle;
+import com.google.zxing.client.android.decode.CaptureActivity;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -40,6 +41,8 @@ public class MainActivity extends CheckPermissionsActivity
             LocationSource,   //提供位置数据的接口
             AMapLocationListener, //定位回调接口
             NavigationView.OnNavigationItemSelectedListener {
+    private static final int SCAN = 0;
+
     // TODO: 17-4-22  3个运行时权限处理(位置、外部存储、PHONE)
 
     private MapView mapView;   //地图控件，还有另一包有这两类                 //定义为null, 与不定义的区别
@@ -123,8 +126,9 @@ public class MainActivity extends CheckPermissionsActivity
         } else if (id == R.id.wallet) {
 
         } else if (id == R.id.scan) {
-            Intent intent = new Intent(this, PayActivity.class);
-            startActivity(intent);
+            //二维码扫描
+            Intent intent = new Intent(this, CaptureActivity.class);
+            startActivityForResult(intent,SCAN);
         } else if (id == R.id.invite) {
 
         } else if (id == R.id.friends) {
@@ -320,5 +324,18 @@ public class MainActivity extends CheckPermissionsActivity
 //        amap.addMarker(markerOption);
     }
 
+    //二维码扫描成功后的回调
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if(requestCode == SCAN && resultCode == RESULT_OK){
+            Bundle bundle = data.getExtras();
+            //msg即为二维码中获得的信息
+            String msg = bundle.getString("result");
+            Intent intent = new Intent(this,PayActivity.class);
+            startActivity(intent);
+            finish();
+        }
+    }
 }
 

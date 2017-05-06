@@ -33,5 +33,8 @@
     <string name="time4">120min</string>
 
     <string name="money">提交订单</string>
+    <string name="choosePay">选择支付方式</string>
+    <string name="ali_pay">支付宝</string>
+    <string name="we_chat">微信</string>
 
 </resources>
