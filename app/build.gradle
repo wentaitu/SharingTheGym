@@ -26,6 +26,8 @@ dependencies {
     })
     //compile 'com.android.support.constraint:constraint-layout:1.0.2'
     //compile 'com.amap.api:navi-3dmap:latest.integration'
+    compile project(path: ':lib_zxing-master')
+    // optional
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support:design:25.3.1'
     compile 'com.amap.api:3dmap:latest.integration'
@@ -33,10 +35,9 @@ dependencies {
     compile 'com.amap.api:search:latest.integration'
     compile 'com.amap.api:location:latest.integration'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    testCompile 'junit:junit:4.12'
-    compile project(path: ':lib_zxing-master')
     compile 'com.jakewharton:butterknife:8.5.1'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     compile 'com.flipboard:bottomsheet-core:1.5.3'
-    compile 'com.flipboard:bottomsheet-commons:1.5.3' // optional
+    compile 'com.flipboard:bottomsheet-commons:1.5.3'
+    testCompile 'junit:junit:4.12'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
 }

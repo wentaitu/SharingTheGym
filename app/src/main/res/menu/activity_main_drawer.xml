@@ -4,19 +4,15 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/plan"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_menu_recorder"
             android:title="@string/plan" />
         <item
             android:id="@+id/fitnessGuide"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_guide"
             android:title="@string/fitnessGuide" />
         <item
-            android:id="@+id/wallet"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/wallet" />
-        <item
             android:id="@+id/scan"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_scan"
             android:title="@string/scan" />
     </group>
 
@@ -28,11 +24,11 @@
                 android:title="@string/invite" />
             <item
                 android:id="@+id/friends"
-                android:icon="@drawable/ic_menu_send"
+                android:icon="@drawable/ic_menu_friends"
                 android:title="@string/friends" />
             <item
                 android:id="@+id/about"
-                android:icon="@drawable/ic_menu_send"
+                android:icon="@drawable/ic_menu_about"
                 android:title="@string/about" />
 
         </menu>

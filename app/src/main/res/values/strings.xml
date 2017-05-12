@@ -4,10 +4,13 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="business">活动来袭</string>
 
     <string name="notifyTitle">提示</string>
     <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="error_network">搜索失败,请检查网络连接！</string>
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+
     <string name="setting">设置</string>
     <string name="cancel">取消</string>
 
@@ -37,4 +40,11 @@
     <string name="ali_pay">支付宝</string>
     <string name="we_chat">微信</string>
 
+    <string name="mapTips">健身设备待机中>>></string>
+
+    <string name="QRerror"></string>
+
+    <string name="location">定位</string>
+    <string name="order">立即预约</string>
+    <string name="feedback">反馈</string>
 </resources>

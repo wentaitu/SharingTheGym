@@ -1,10 +1,10 @@
 package so.go2.sharingthegym;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
-import android.support.design.widget.Snackbar;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -13,20 +13,20 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
 import com.amap.api.location.AMapLocation;
 import com.amap.api.location.AMapLocationClient;
 import com.amap.api.location.AMapLocationClientOption;
 import com.amap.api.location.AMapLocationListener;
 import com.amap.api.maps.AMap;
+import com.amap.api.maps.CameraUpdate;
 import com.amap.api.maps.CameraUpdateFactory;
 import com.amap.api.maps.LocationSource;
 import com.amap.api.maps.MapView;
 import com.amap.api.maps.UiSettings;
+import com.amap.api.maps.model.BitmapDescriptor;
 import com.amap.api.maps.model.BitmapDescriptorFactory;
 import com.amap.api.maps.model.LatLng;
-import com.amap.api.maps.model.Marker;
 import com.amap.api.maps.model.MarkerOptions;
 import com.amap.api.maps.model.MyLocationStyle;
 import com.google.zxing.client.android.decode.CaptureActivity;
@@ -40,17 +40,22 @@ public class MainActivity extends CheckPermissionsActivity
         implements
             LocationSource,   //提供位置数据的接口
             AMapLocationListener, //定位回调接口
-            NavigationView.OnNavigationItemSelectedListener {
+            NavigationView.OnNavigationItemSelectedListener,
+            View.OnClickListener {
     private static final int SCAN = 0;
 
     // TODO: 17-4-22  3个运行时权限处理(位置、外部存储、PHONE)
 
-    private MapView mapView;   //地图控件，还有另一包有这两类                 //定义为null, 与不定义的区别
+    private MapView mapView;   //地图控件，还有另一包有这两类
     private AMap amap;  //用于获取AMap地图对象及其操作方法与接口
+    private MyLocationStyle myLocationStyle;
+    private LatLng myLocation = null;
+    private BitmapDescriptor chooseDescripter;
 
     private AMapLocationClient mLocationClient = null; //定位发起端
     private AMapLocationClientOption mLocationOption = null;  //定位参数
     private OnLocationChangedListener mListener = null;  //定位回调监听器
+
     //标识，用于判断是否只显示一次定位信息和用户重新定位
     private boolean isFirstLoc = true;
 
@@ -66,16 +71,15 @@ public class MainActivity extends CheckPermissionsActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab1);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-                Intent intent = new Intent(MainActivity.this, TestActivity.class);
-                startActivity(intent);
-            }
-        });
+        //主界面三个Fab->定位、立即预约、反馈
+        FloatingActionButton locPosi = (FloatingActionButton) findViewById(R.id.loc);
+        locPosi.setOnClickListener(this);
+
+        FloatingActionButton order = (FloatingActionButton) findViewById(R.id.order);
+        order.setOnClickListener(this);
+
+        FloatingActionButton feedback = (FloatingActionButton) findViewById(R.id.feedback);
+        feedback.setOnClickListener(this);
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -107,7 +111,9 @@ public class MainActivity extends CheckPermissionsActivity
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
-        if (id == R.id.action_settings) {
+        if (id == R.id.business) {
+            Intent intent = new Intent(this, AdActivity.class);
+            startActivity(intent);
             return true;
         }
 
@@ -122,8 +128,6 @@ public class MainActivity extends CheckPermissionsActivity
         if (id == R.id.plan) {
 
         } else if (id == R.id.fitnessGuide) {
-
-        } else if (id == R.id.wallet) {
 
         } else if (id == R.id.scan) {
             //二维码扫描
@@ -175,24 +179,35 @@ public class MainActivity extends CheckPermissionsActivity
         if (amap == null) {
             amap = mapView.getMap();  //获取地图控制器AMap对象
         }
-        //设置地图UI 定位按钮是否可见 缩放按钮是否可见
-        UiSettings settings = amap.getUiSettings();
-        settings.setMyLocationButtonEnabled(true);
-        settings.setZoomControlsEnabled(false);
-        settings.setLogoPosition(0);
 
-        //设置显示定位按钮，可点击
+        //设置地图UI 缩放按钮是否可见 指南针是否显示
+        UiSettings settings = amap.getUiSettings();
+        settings.setCompassEnabled(true);
+        settings.setZoomControlsEnabled(false);
+
         amap.setLocationSource(this);
         //是否可触发定位并显示定位层（是否打开定位图层）
         amap.setMyLocationEnabled(true);
 
+        //描述地图状态将要发生的变化
+        CameraUpdate cameraUpdate = CameraUpdateFactory.zoomTo(15);
+        amap.moveCamera(cameraUpdate);
+
+        //bitmap 描述信息 在高德地图API 里，如果需要将一张图片绘制为Marker，
+        //需要用这个类把图片包装成对象，可以通过BitmapDescriptorFactory 获得一个BitmapDescriptor 对象
+        chooseDescripter = BitmapDescriptorFactory.fromResource(R.drawable.icon_loaction_choose);
+
         //定位小图标，默认蓝点，可自定义图片 定位（当前位置）的绘制样式类
-        MyLocationStyle myLocationStyle = new MyLocationStyle();
-        //设置定位（当前位置）的icon图标
-        //myLocationStyle.myLocationIcon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_launcher));
+        myLocationStyle = new MyLocationStyle();
+        //设置定位（当前位置）的icon图标 3D地图默认为蓝箭头
+        myLocationStyle.myLocationIcon(BitmapDescriptorFactory.fromResource(R.drawable.img_location));
+        //精度圈处理  边框、填充无rgb(0, 0, 0);
+        myLocationStyle.strokeColor(Color.argb(0, 0, 0, 0));
+        myLocationStyle.radiusFillColor(Color.argb(0, 0, 0, 0));
+        amap.setMyLocationStyle(myLocationStyle);
 
         initLoc();
-        initAddMarker();
+        AddMarker();
     }
 
     private void initLoc() {
@@ -219,6 +234,23 @@ public class MainActivity extends CheckPermissionsActivity
         //启动定位
         mLocationClient.startLocation();
     }
+
+    //**************************************************************************View.OnClickListener
+    @Override
+    public void onClick(View v) {
+        int id = v.getId();
+        //主界面三个Fab->定位、立即预约、反馈
+        if(id == R.id.loc) {
+            //自定义定位按钮
+            CameraUpdate update = CameraUpdateFactory.changeLatLng(myLocation);
+            amap.animateCamera(update);
+        } else if (id == R.id.order) {
+            Intent intent = new Intent(this, TestActivity.class);
+            startActivity(intent);
+        } else if (id == R.id.feedback) {
+
+        }
+    }
     //****************************************************************************接口LocationSource
     @Override
     public void activate(OnLocationChangedListener listener) {
@@ -230,13 +262,12 @@ public class MainActivity extends CheckPermissionsActivity
     public void deactivate() {
         //处理定位更新的接口
         mListener = null;
-
     }
     //*********************************************************************接口AMapLocationListener定位回调监听，当定位完成后调用此方法
     @Override
     public void onLocationChanged(AMapLocation amapLocation) {
-        if (amapLocation != null) {
-            if (amapLocation.getErrorCode() == 0) {
+        if (amapLocation != null && amapLocation.getErrorCode() == 0) {
+            //if (amapLocation.getErrorCode() == 0) {
                 //定位成功回调信息，设置相关消息
                 amapLocation.getLocationType();//获取当前定位结果来源，如网络定位结果，详见官方定位类型表
                 amapLocation.getLatitude();//获取纬度
@@ -254,8 +285,8 @@ public class MainActivity extends CheckPermissionsActivity
                 amapLocation.getStreetNum();//街道门牌号信息
                 amapLocation.getCityCode();//城市编码
                 amapLocation.getAdCode();//地区编码
-
-                // 如果不设置标志位，此时再拖动地图时，它会不断将地图移动到当前的位置
+                myLocation = new LatLng(amapLocation.getLatitude(), amapLocation.getLongitude());   //设置自定义定位按钮定位参数
+                // 如果不设置标志位，此时再拖动地图，它会不断将地图移动到当前的位置
                 if (isFirstLoc) {
                     //设置缩放级别
                     amap.moveCamera(CameraUpdateFactory.zoomTo(17));
@@ -266,22 +297,21 @@ public class MainActivity extends CheckPermissionsActivity
                     //添加图钉
                     amap.addMarker(getMarkerOptions(amapLocation));
                     //获取定位信息
-                    StringBuffer buffer = new StringBuffer();
-                    buffer.append(amapLocation.getCountry() + "" + amapLocation.getProvince() + "" + amapLocation.getCity() + "" + amapLocation.getProvince() + "" + amapLocation.getDistrict() + "" + amapLocation.getStreet() + "" + amapLocation.getStreetNum());
-                    Toast.makeText(this, buffer.toString(), Toast.LENGTH_LONG).show();
+                    //StringBuffer buffer = new StringBuffer();
+                    //buffer.append(amapLocation.getCountry() + "" + amapLocation.getProvince() + "" + amapLocation.getCity() + "" + amapLocation.getProvince() + "" + amapLocation.getDistrict() + "" + amapLocation.getStreet() + "" + amapLocation.getStreetNum());
+                    //Toast.makeText(this, buffer.toString(), Toast.LENGTH_LONG).show();
                     isFirstLoc = false;
                 }
 
+        } else {
+            //显示错误信息ErrCode是错误码，errInfo是错误信息，详见错误码表
+            Log.e("AmapError", "location Error, ErrCode:"
+                    + amapLocation.getErrorCode() + ", errInfo:"
+                    + amapLocation.getErrorInfo());
 
-            } else {
-                //显示错误信息ErrCode是错误码，errInfo是错误信息，详见错误码表。
-                Log.e("AmapError", "location Error, ErrCode:"
-                        + amapLocation.getErrorCode() + ", errInfo:"
-                        + amapLocation.getErrorInfo());
-
-                Toast.makeText(getApplicationContext(), "定位失败", Toast.LENGTH_LONG).show();
-            }
+            //Toast.makeText(getApplicationContext(), "定位失败", Toast.LENGTH_LONG).show();
         }
+
     }
 
     //自定义一个图钉，并且设置图标，当我们点击图钉时，显示设置的信息
@@ -290,7 +320,7 @@ public class MainActivity extends CheckPermissionsActivity
         //设置图钉选项
         MarkerOptions options = new MarkerOptions();
         //图标
-        options.icon(BitmapDescriptorFactory.fromResource(R.mipmap.ic_launcher));
+        options.icon(chooseDescripter);
         //位置
         options.position(new LatLng(amapLocation.getLatitude(), amapLocation.getLongitude()));
         StringBuffer buffer = new StringBuffer();
@@ -300,28 +330,56 @@ public class MainActivity extends CheckPermissionsActivity
         //标题
         options.title(buffer.toString());
         //子标题
-        options.snippet("Amap");
+        //options.snippet("Amap");
         //设置多少帧刷新一次图片资源
         options.period(60);
         return options;
     }
 
-    private void initAddMarker() {
+    //添加点
+    private void AddMarker() {
         MarkerOptions markerOption = new MarkerOptions();
         markerOption.icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_menu_send));
-        markerOption.position(new LatLng(106.604471, 29.532775));
-        markerOption.draggable(true);  //设置Marker覆盖物是否可拖拽
-        Marker marker = amap.addMarker(markerOption);
+        markerOption.draggable(false);  //设置Marker覆盖物是否可拖拽
 
-//        amap.addMarker(markerOption);
-//        markerOption.position(new LatLng(108.604471, 28.532775));
-//        amap.addMarker(markerOption);
-//        markerOption.position(new LatLng(108.604471, 28.832775));
-//        amap.addMarker(markerOption);
-//        markerOption.position(new LatLng(106.604471, 29.732775));
-//        amap.addMarker(markerOption);
-//        markerOption.position(new LatLng(110.604471, 31.532775));
-//        amap.addMarker(markerOption);
+        //final Marker marker2 = amap.addMarker(new MarkerOptions().position(new LatLng(39.906901,116.397972)).title("123").snippet("DefaultMarker"));
+
+        markerOption.position(new LatLng(29.532775, 106.604471));
+        //Marker marker = amap.addMarker(markerOption);
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.532976, 106.604603)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.532596, 106.602623)).title(getResources().getString(R.string.mapTips));
+        markerOption.position(new LatLng(29.732775,106.604471)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(31.532775, 110.604471)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+
+        markerOption.position(new LatLng(29.532785, 106.609071)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.525785, 106.615071)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.535785, 106.614071)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.535185, 106.611071)).title(getResources().getString(R.string.mapTips));
+        markerOption.position(new LatLng(29.535585, 106.612671)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.535285, 106.608071)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+
+        markerOption.position(new LatLng(29.530123, 106.609084)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.532123, 106.608084)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.533123, 106.607084)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.534123, 106.65084)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.535123, 106.604084)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+        markerOption.position(new LatLng(29.536123, 106.603084)).title(getResources().getString(R.string.mapTips));
+        amap.addMarker(markerOption);
+
     }
 
     //二维码扫描成功后的回调
@@ -332,10 +390,23 @@ public class MainActivity extends CheckPermissionsActivity
             Bundle bundle = data.getExtras();
             //msg即为二维码中获得的信息
             String msg = bundle.getString("result");
-            Intent intent = new Intent(this,PayActivity.class);
-            startActivity(intent);
-            finish();
+
+            switch (msg) {
+                case "01":
+                    Intent intent = new Intent(this, PayActivity.class);
+                    startActivity(intent);
+                    break;
+                case "02":
+
+                    break;
+                case "03":
+
+                    break;
+                default:
+            }
+
         }
     }
+
 }
 

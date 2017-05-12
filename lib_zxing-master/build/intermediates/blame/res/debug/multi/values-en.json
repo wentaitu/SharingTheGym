@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "outputFile": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
@@ -30,7 +30,7 @@
                     "endOffset": 166
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
@@ -49,7 +49,7 @@
                     "endOffset": 230
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
@@ -68,7 +68,7 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -87,7 +87,7 @@
                     "endOffset": 348
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
@@ -106,7 +106,7 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 2,
@@ -125,7 +125,7 @@
                     "endOffset": 468
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
@@ -144,7 +144,7 @@
                     "endOffset": 520
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
@@ -163,7 +163,7 @@
                     "endOffset": 572
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
@@ -182,7 +182,7 @@
                     "endOffset": 637
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
@@ -201,7 +201,7 @@
                     "endOffset": 685
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
@@ -220,7 +220,7 @@
                     "endOffset": 726
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
@@ -239,7 +239,7 @@
                     "endOffset": 787
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
@@ -258,7 +258,7 @@
                     "endOffset": 852
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
@@ -277,7 +277,7 @@
                     "endOffset": 924
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
@@ -296,7 +296,7 @@
                     "endOffset": 981
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
@@ -315,7 +315,7 @@
                     "endOffset": 1040
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
@@ -334,7 +334,7 @@
                     "endOffset": 1106
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
@@ -353,7 +353,7 @@
                     "endOffset": 1168
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -372,7 +372,7 @@
                     "endOffset": 1229
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
@@ -391,7 +391,7 @@
                     "endOffset": 1286
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
@@ -410,7 +410,7 @@
                     "endOffset": 1339
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
@@ -429,7 +429,7 @@
                     "endOffset": 1387
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
@@ -448,7 +448,7 @@
                     "endOffset": 1444
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
@@ -467,7 +467,7 @@
                     "endOffset": 1503
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
@@ -486,7 +486,7 @@
                     "endOffset": 1561
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
@@ -505,7 +505,7 @@
                     "endOffset": 1618
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
@@ -524,7 +524,7 @@
                     "endOffset": 1687
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
@@ -543,7 +543,7 @@
                     "endOffset": 1743
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
@@ -562,7 +562,7 @@
                     "endOffset": 1796
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
@@ -581,7 +581,7 @@
                     "endOffset": 1849
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
@@ -600,7 +600,7 @@
                     "endOffset": 1914
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
@@ -619,7 +619,7 @@
                     "endOffset": 1975
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
@@ -638,7 +638,7 @@
                     "endOffset": 2047
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
@@ -657,7 +657,7 @@
                     "endOffset": 2095
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
@@ -676,7 +676,7 @@
                     "endOffset": 2180
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
@@ -695,7 +695,7 @@
                     "endOffset": 2234
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
@@ -714,7 +714,7 @@
                     "endOffset": 2284
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
@@ -733,7 +733,7 @@
                     "endOffset": 2342
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
@@ -752,7 +752,7 @@
                     "endOffset": 2398
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
@@ -771,7 +771,7 @@
                     "endOffset": 2441
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 2,
@@ -790,7 +790,7 @@
                     "endOffset": 2490
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
@@ -809,7 +809,7 @@
                     "endOffset": 2541
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 2,
@@ -828,7 +828,7 @@
                     "endOffset": 2586
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 2,
@@ -847,7 +847,7 @@
                     "endOffset": 2673
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
@@ -866,7 +866,7 @@
                     "endOffset": 2811
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 2,
@@ -885,7 +885,7 @@
                     "endOffset": 2865
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,
@@ -904,7 +904,7 @@
                     "endOffset": 2919
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 2,
@@ -923,7 +923,7 @@
                     "endOffset": 2974
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
@@ -942,7 +942,7 @@
                     "endOffset": 3081
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
@@ -961,7 +961,7 @@
                     "endOffset": 3131
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 2,
@@ -980,7 +980,7 @@
                     "endOffset": 3181
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 2,
@@ -999,7 +999,7 @@
                     "endOffset": 3287
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 2,
@@ -1018,7 +1018,7 @@
                     "endOffset": 3331
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
@@ -1037,7 +1037,7 @@
                     "endOffset": 3383
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
@@ -1056,7 +1056,7 @@
                     "endOffset": 3437
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 2,
@@ -1075,7 +1075,7 @@
                     "endOffset": 3576
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 2,
@@ -1094,7 +1094,7 @@
                     "endOffset": 3636
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 2,
@@ -1113,7 +1113,7 @@
                     "endOffset": 3686
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 2,
@@ -1132,7 +1132,7 @@
                     "endOffset": 3778
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 2,
@@ -1151,7 +1151,7 @@
                     "endOffset": 3862
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 2,
@@ -1170,7 +1170,7 @@
                     "endOffset": 3932
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 2,
@@ -1189,7 +1189,7 @@
                     "endOffset": 3978
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 2,
@@ -1208,7 +1208,7 @@
                     "endOffset": 4030
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 2,
@@ -1227,7 +1227,7 @@
                     "endOffset": 4102
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 2,
@@ -1246,7 +1246,7 @@
                     "endOffset": 4180
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 2,
@@ -1265,7 +1265,7 @@
                     "endOffset": 4324
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 2,
@@ -1284,7 +1284,7 @@
                     "endOffset": 4401
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 2,
@@ -1303,7 +1303,7 @@
                     "endOffset": 4452
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 2,
@@ -1322,7 +1322,7 @@
                     "endOffset": 4534
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 2,
@@ -1341,7 +1341,7 @@
                     "endOffset": 4618
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 2,
@@ -1360,7 +1360,7 @@
                     "endOffset": 4690
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 2,
@@ -1379,7 +1379,7 @@
                     "endOffset": 4779
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 2,
@@ -1398,7 +1398,7 @@
                     "endOffset": 4878
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 2,
@@ -1417,7 +1417,7 @@
                     "endOffset": 4949
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 2,
@@ -1436,7 +1436,7 @@
                     "endOffset": 5031
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 2,
@@ -1455,7 +1455,7 @@
                     "endOffset": 5172
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 2,
@@ -1474,7 +1474,7 @@
                     "endOffset": 5258
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 2,
@@ -1493,7 +1493,7 @@
                     "endOffset": 5339
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 2,
@@ -1512,7 +1512,7 @@
                     "endOffset": 5414
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 2,
@@ -1531,7 +1531,7 @@
                     "endOffset": 5479
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 2,
@@ -1550,7 +1550,7 @@
                     "endOffset": 5556
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 2,
@@ -1569,7 +1569,7 @@
                     "endOffset": 5627
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 2,
@@ -1588,7 +1588,7 @@
                     "endOffset": 5692
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 2,
@@ -1607,7 +1607,7 @@
                     "endOffset": 5784
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 2,
@@ -1626,7 +1626,7 @@
                     "endOffset": 5879
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 2,
@@ -1645,7 +1645,7 @@
                     "endOffset": 5981
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 2,
@@ -1664,7 +1664,7 @@
                     "endOffset": 6072
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 2,
@@ -1683,7 +1683,7 @@
                     "endOffset": 6147
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 2,
@@ -1702,7 +1702,7 @@
                     "endOffset": 6222
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 2,
@@ -1721,7 +1721,7 @@
                     "endOffset": 6289
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 2,
@@ -1740,7 +1740,7 @@
                     "endOffset": 6349
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 2,
@@ -1759,7 +1759,7 @@
                     "endOffset": 6407
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 2,
@@ -1778,7 +1778,7 @@
                     "endOffset": 6564
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 2,
@@ -1797,7 +1797,7 @@
                     "endOffset": 6638
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 2,
@@ -1816,7 +1816,7 @@
                     "endOffset": 6709
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 2,
@@ -1835,7 +1835,7 @@
                     "endOffset": 6793
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 2,
@@ -1854,7 +1854,7 @@
                     "endOffset": 6862
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 2,
@@ -1873,7 +1873,7 @@
                     "endOffset": 6998
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 2,
@@ -1892,7 +1892,7 @@
                     "endOffset": 7068
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 2,
@@ -1911,7 +1911,7 @@
                     "endOffset": 7122
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 2,
@@ -1930,7 +1930,7 @@
                     "endOffset": 7202
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 2,
@@ -1949,7 +1949,7 @@
                     "endOffset": 7263
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 2,
@@ -1968,7 +1968,7 @@
                     "endOffset": 7383
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 2,
@@ -1987,7 +1987,7 @@
                     "endOffset": 7469
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 2,
@@ -2006,7 +2006,7 @@
                     "endOffset": 7538
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 2,
@@ -2025,7 +2025,7 @@
                     "endOffset": 7634
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 2,
@@ -2044,7 +2044,7 @@
                     "endOffset": 7704
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 2,
@@ -2063,7 +2063,7 @@
                     "endOffset": 7825
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 2,
@@ -2082,7 +2082,7 @@
                     "endOffset": 7903
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 2,
@@ -2101,7 +2101,7 @@
                     "endOffset": 7965
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 2,
@@ -2120,7 +2120,7 @@
                     "endOffset": 8032
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 2,
@@ -2139,7 +2139,7 @@
                     "endOffset": 8097
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 2,
@@ -2158,7 +2158,7 @@
                     "endOffset": 8166
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 2,
@@ -2177,7 +2177,7 @@
                     "endOffset": 8234
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 2,
@@ -2196,7 +2196,7 @@
                     "endOffset": 8285
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 2,
@@ -2215,7 +2215,7 @@
                     "endOffset": 8342
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 2,
@@ -2234,7 +2234,7 @@
                     "endOffset": 8399
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 2,
@@ -2253,7 +2253,7 @@
                     "endOffset": 8457
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 2,
@@ -2272,7 +2272,7 @@
                     "endOffset": 8514
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 2,
@@ -2291,7 +2291,7 @@
                     "endOffset": 8563
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 2,
@@ -2310,7 +2310,7 @@
                     "endOffset": 8628
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 2,
@@ -2329,7 +2329,7 @@
                     "endOffset": 8684
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 2,
@@ -2348,7 +2348,7 @@
                     "endOffset": 8773
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "/home/wentai/Android_program/SharingTheGym/lib_zxing-master/src/main/res/values-en/strings.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 2,
