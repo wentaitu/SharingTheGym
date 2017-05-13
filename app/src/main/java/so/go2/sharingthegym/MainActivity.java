@@ -126,7 +126,8 @@ public class MainActivity extends CheckPermissionsActivity
         int id = item.getItemId();
 
         if (id == R.id.plan) {
-
+            Intent intent = new Intent(this,DataRecordActivity.class);
+            startActivity(intent);
         } else if (id == R.id.fitnessGuide) {
 
         } else if (id == R.id.scan) {
