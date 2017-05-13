@@ -1,6 +1,7 @@
 package so.go2.sharingthegym;
 
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.MenuItem;
@@ -43,19 +44,20 @@ public class PayActivity extends AppCompatActivity {
 
     private void test() {
         RetrofitClient.create(ApiService.class)
-                .upload(10)
+                .upload("01","20")
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Consumer<uploadModel>() {
                     @Override
                     public void accept(uploadModel uploadModel) throws Exception {
-                        Log.d(TAG, "accept: " + uploadModel
-                                .getArticles().get(0).getArticleId());
+                        Snackbar.make(menuSheetView,uploadModel.getSuccess(),Snackbar.LENGTH_SHORT).show();
+                        Toast.makeText(PayActivity.this,"发送成功",Toast.LENGTH_SHORT).show();
                     }
                 }, new Consumer<Throwable>() {
                     @Override
                     public void accept(Throwable throwable) throws Exception {
                         Log.d(TAG, "accept: " + throwable.getMessage());
+                        Toast.makeText(PayActivity.this,"发送失败" + throwable.getMessage(),Toast.LENGTH_SHORT).show();
                     }
                 });
     }

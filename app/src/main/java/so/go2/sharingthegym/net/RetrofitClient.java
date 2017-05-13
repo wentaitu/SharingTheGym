@@ -15,7 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class RetrofitClient {
 
     private static final long OK_HTTP_CONNECT_TIME_OUT = 10;//超时
-    private static final String URL = "http://120.77.87.78:8080"; //host地址
+    private static final String URL = "http://139.199.63.27"; //host地址
     private static Retrofit instance;
 
     public static Retrofit getInstance(){
@@ -23,19 +23,18 @@ public class RetrofitClient {
             OkHttpClient okHttpClient = new OkHttpClient.Builder()
                     .connectTimeout(OK_HTTP_CONNECT_TIME_OUT, TimeUnit.SECONDS)
                     .build();
-            return new Retrofit
+            instance = new Retrofit
                     .Builder()
                     .baseUrl(URL)
                     .client(okHttpClient)
                     .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
+            return instance;
         }else return instance;
     }
 
     public static <T> T create(Class<T> service){
         return getInstance().create(service);
     }
-
-
 }
