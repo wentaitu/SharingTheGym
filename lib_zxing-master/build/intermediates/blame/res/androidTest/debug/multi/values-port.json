@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\.android\\build-cache\\a204501dc8c376cc84f1ccec7d378f145558f149\\output\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\lusen\\.android\\build-cache\\76fdfda6851852161f4e6b9b9523cd437b9456bd\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

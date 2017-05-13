@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "outputFile": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 2,
-                        "startOffset": 15,
+                        "startOffset": 17,
                         "endColumn": 54,
-                        "endOffset": 67
+                        "endOffset": 69
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 166
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 2,
-                        "startOffset": 70,
+                        "startOffset": 73,
                         "endColumn": 56,
-                        "endOffset": 124
+                        "endOffset": 127
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 230
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 2,
-                        "startOffset": 127,
+                        "startOffset": 131,
                         "endColumn": 61,
-                        "endOffset": 186
+                        "endOffset": 190
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
-                        "startOffset": 189,
+                        "startOffset": 194,
                         "endColumn": 56,
-                        "endOffset": 243
+                        "endOffset": 248
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 348
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 2,
-                        "startOffset": 246,
+                        "startOffset": 252,
                         "endColumn": 56,
-                        "endOffset": 300
+                        "endOffset": 306
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 2,
-                        "startOffset": 303,
+                        "startOffset": 310,
                         "endColumn": 46,
-                        "endOffset": 347
+                        "endOffset": 354
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 468
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 2,
-                        "startOffset": 350,
+                        "startOffset": 358,
                         "endColumn": 68,
-                        "endOffset": 416
+                        "endOffset": 424
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 520
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 2,
-                        "startOffset": 419,
+                        "startOffset": 428,
                         "endColumn": 49,
-                        "endOffset": 466
+                        "endOffset": 475
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 572
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 2,
-                        "startOffset": 469,
+                        "startOffset": 479,
                         "endColumn": 49,
-                        "endOffset": 516
+                        "endOffset": 526
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 637
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 2,
-                        "startOffset": 519,
+                        "startOffset": 530,
                         "endColumn": 62,
-                        "endOffset": 579
+                        "endOffset": 590
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 685
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 2,
-                        "startOffset": 582,
+                        "startOffset": 594,
                         "endColumn": 45,
-                        "endOffset": 625
+                        "endOffset": 637
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 726
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 2,
-                        "startOffset": 628,
+                        "startOffset": 641,
                         "endColumn": 38,
-                        "endOffset": 664
+                        "endOffset": 677
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 787
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 2,
-                        "startOffset": 667,
+                        "startOffset": 681,
                         "endColumn": 58,
-                        "endOffset": 723
+                        "endOffset": 737
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 852
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 2,
-                        "startOffset": 726,
+                        "startOffset": 741,
                         "endColumn": 62,
-                        "endOffset": 786
+                        "endOffset": 801
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 924
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 2,
-                        "startOffset": 789,
+                        "startOffset": 805,
                         "endColumn": 69,
-                        "endOffset": 856
+                        "endOffset": 872
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 981
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 2,
-                        "startOffset": 859,
+                        "startOffset": 876,
                         "endColumn": 54,
-                        "endOffset": 911
+                        "endOffset": 928
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1040
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 2,
-                        "startOffset": 914,
+                        "startOffset": 932,
                         "endColumn": 56,
-                        "endOffset": 968
+                        "endOffset": 986
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1106
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 2,
-                        "startOffset": 971,
+                        "startOffset": 990,
                         "endColumn": 63,
-                        "endOffset": 1032
+                        "endOffset": 1051
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1168
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
-                        "startOffset": 1035,
+                        "startOffset": 1055,
                         "endColumn": 59,
-                        "endOffset": 1092
+                        "endOffset": 1112
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1229
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 2,
-                        "startOffset": 1095,
+                        "startOffset": 1116,
                         "endColumn": 58,
-                        "endOffset": 1151
+                        "endOffset": 1172
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1286
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
-                        "startOffset": 1154,
+                        "startOffset": 1176,
                         "endColumn": 54,
-                        "endOffset": 1206
+                        "endOffset": 1228
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1339
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 2,
-                        "startOffset": 1209,
+                        "startOffset": 1232,
                         "endColumn": 50,
-                        "endOffset": 1257
+                        "endOffset": 1280
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1387
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 2,
-                        "startOffset": 1260,
+                        "startOffset": 1284,
                         "endColumn": 45,
-                        "endOffset": 1303
+                        "endOffset": 1327
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1444
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 2,
-                        "startOffset": 1306,
+                        "startOffset": 1331,
                         "endColumn": 54,
-                        "endOffset": 1358
+                        "endOffset": 1383
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 1503
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 2,
-                        "startOffset": 1361,
+                        "startOffset": 1387,
                         "endColumn": 56,
-                        "endOffset": 1415
+                        "endOffset": 1441
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 1561
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 2,
-                        "startOffset": 1418,
+                        "startOffset": 1445,
                         "endColumn": 55,
-                        "endOffset": 1471
+                        "endOffset": 1498
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 1618
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 2,
-                        "startOffset": 1474,
+                        "startOffset": 1502,
                         "endColumn": 54,
-                        "endOffset": 1526
+                        "endOffset": 1554
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 1687
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 2,
-                        "startOffset": 1529,
+                        "startOffset": 1558,
                         "endColumn": 66,
-                        "endOffset": 1593
+                        "endOffset": 1622
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 1743
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 2,
-                        "startOffset": 1596,
+                        "startOffset": 1626,
                         "endColumn": 53,
-                        "endOffset": 1647
+                        "endOffset": 1677
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 1796
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 2,
-                        "startOffset": 1650,
+                        "startOffset": 1681,
                         "endColumn": 50,
-                        "endOffset": 1698
+                        "endOffset": 1729
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 1849
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 2,
-                        "startOffset": 1701,
+                        "startOffset": 1733,
                         "endColumn": 50,
-                        "endOffset": 1749
+                        "endOffset": 1781
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 1914
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 2,
-                        "startOffset": 1811,
+                        "startOffset": 1845,
                         "endColumn": 62,
-                        "endOffset": 1871
+                        "endOffset": 1905
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 1975
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 2,
-                        "startOffset": 1752,
+                        "startOffset": 1785,
                         "endColumn": 58,
-                        "endOffset": 1808
+                        "endOffset": 1841
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 2047
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 2,
-                        "startOffset": 1874,
+                        "startOffset": 1909,
                         "endColumn": 69,
-                        "endOffset": 1941
+                        "endOffset": 1976
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 2095
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 2,
-                        "startOffset": 1944,
+                        "startOffset": 1980,
                         "endColumn": 45,
-                        "endOffset": 1987
+                        "endOffset": 2023
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 2180
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 2,
-                        "startOffset": 1990,
+                        "startOffset": 2027,
                         "endColumn": 82,
-                        "endOffset": 2070
+                        "endOffset": 2107
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 2234
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 2,
-                        "startOffset": 2073,
+                        "startOffset": 2111,
                         "endColumn": 51,
-                        "endOffset": 2122
+                        "endOffset": 2160
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 2284
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 2,
-                        "startOffset": 2125,
+                        "startOffset": 2164,
                         "endColumn": 47,
-                        "endOffset": 2170
+                        "endOffset": 2209
                     }
                 }
             },
@@ -733,13 +733,13 @@
                     "endOffset": 2342
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 2,
-                        "startOffset": 2173,
+                        "startOffset": 2213,
                         "endColumn": 55,
-                        "endOffset": 2226
+                        "endOffset": 2266
                     }
                 }
             },
@@ -752,13 +752,13 @@
                     "endOffset": 2398
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 2,
-                        "startOffset": 2229,
+                        "startOffset": 2270,
                         "endColumn": 53,
-                        "endOffset": 2280
+                        "endOffset": 2321
                     }
                 }
             },
@@ -771,13 +771,13 @@
                     "endOffset": 2441
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 2,
-                        "startOffset": 2283,
+                        "startOffset": 2325,
                         "endColumn": 40,
-                        "endOffset": 2321
+                        "endOffset": 2363
                     }
                 }
             },
@@ -790,13 +790,13 @@
                     "endOffset": 2490
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 2,
-                        "startOffset": 2324,
+                        "startOffset": 2367,
                         "endColumn": 46,
-                        "endOffset": 2368
+                        "endOffset": 2411
                     }
                 }
             },
@@ -809,13 +809,13 @@
                     "endOffset": 2541
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 2,
-                        "startOffset": 2371,
+                        "startOffset": 2415,
                         "endColumn": 48,
-                        "endOffset": 2417
+                        "endOffset": 2461
                     }
                 }
             },
@@ -828,13 +828,13 @@
                     "endOffset": 2586
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 2,
-                        "startOffset": 2420,
+                        "startOffset": 2465,
                         "endColumn": 42,
-                        "endOffset": 2460
+                        "endOffset": 2505
                     }
                 }
             },
@@ -847,13 +847,13 @@
                     "endOffset": 2673
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 2,
-                        "startOffset": 2463,
+                        "startOffset": 2509,
                         "endColumn": 84,
-                        "endOffset": 2545
+                        "endOffset": 2591
                     }
                 }
             },
@@ -866,13 +866,13 @@
                     "endOffset": 2811
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 2,
-                        "startOffset": 2548,
+                        "startOffset": 2595,
                         "endColumn": 135,
-                        "endOffset": 2681
+                        "endOffset": 2728
                     }
                 }
             },
@@ -885,13 +885,13 @@
                     "endOffset": 2865
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 2,
-                        "startOffset": 2684,
+                        "startOffset": 2732,
                         "endColumn": 51,
-                        "endOffset": 2733
+                        "endOffset": 2781
                     }
                 }
             },
@@ -904,13 +904,13 @@
                     "endOffset": 2919
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 2,
-                        "startOffset": 2736,
+                        "startOffset": 2785,
                         "endColumn": 51,
-                        "endOffset": 2785
+                        "endOffset": 2834
                     }
                 }
             },
@@ -923,13 +923,13 @@
                     "endOffset": 2974
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 2,
-                        "startOffset": 2788,
+                        "startOffset": 2838,
                         "endColumn": 52,
-                        "endOffset": 2838
+                        "endOffset": 2888
                     }
                 }
             },
@@ -942,13 +942,13 @@
                     "endOffset": 3081
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 2,
-                        "startOffset": 2841,
+                        "startOffset": 2892,
                         "endColumn": 104,
-                        "endOffset": 2943
+                        "endOffset": 2994
                     }
                 }
             },
@@ -961,13 +961,13 @@
                     "endOffset": 3131
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 2,
-                        "startOffset": 2946,
+                        "startOffset": 2998,
                         "endColumn": 47,
-                        "endOffset": 2991
+                        "endOffset": 3043
                     }
                 }
             },
@@ -980,13 +980,13 @@
                     "endOffset": 3181
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 2,
-                        "startOffset": 2994,
+                        "startOffset": 3047,
                         "endColumn": 47,
-                        "endOffset": 3039
+                        "endOffset": 3092
                     }
                 }
             },
@@ -999,13 +999,13 @@
                     "endOffset": 3287
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 2,
-                        "startOffset": 3042,
+                        "startOffset": 3096,
                         "endColumn": 103,
-                        "endOffset": 3143
+                        "endOffset": 3197
                     }
                 }
             },
@@ -1018,13 +1018,13 @@
                     "endOffset": 3331
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 2,
-                        "startOffset": 3146,
+                        "startOffset": 3201,
                         "endColumn": 41,
-                        "endOffset": 3185
+                        "endOffset": 3240
                     }
                 }
             },
@@ -1037,13 +1037,13 @@
                     "endOffset": 3383
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 2,
-                        "startOffset": 3188,
+                        "startOffset": 3244,
                         "endColumn": 49,
-                        "endOffset": 3235
+                        "endOffset": 3291
                     }
                 }
             },
@@ -1056,13 +1056,13 @@
                     "endOffset": 3437
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 2,
-                        "startOffset": 3238,
+                        "startOffset": 3295,
                         "endColumn": 51,
-                        "endOffset": 3287
+                        "endOffset": 3344
                     }
                 }
             },
@@ -1075,13 +1075,13 @@
                     "endOffset": 3576
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 2,
-                        "startOffset": 3290,
+                        "startOffset": 3348,
                         "endColumn": 136,
-                        "endOffset": 3424
+                        "endOffset": 3482
                     }
                 }
             },
@@ -1094,13 +1094,13 @@
                     "endOffset": 3636
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 2,
-                        "startOffset": 3427,
+                        "startOffset": 3486,
                         "endColumn": 57,
-                        "endOffset": 3482
+                        "endOffset": 3541
                     }
                 }
             },
@@ -1113,13 +1113,13 @@
                     "endOffset": 3686
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 2,
-                        "startOffset": 3485,
+                        "startOffset": 3545,
                         "endColumn": 47,
-                        "endOffset": 3530
+                        "endOffset": 3590
                     }
                 }
             },
@@ -1132,13 +1132,13 @@
                     "endOffset": 3778
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 2,
-                        "startOffset": 3533,
+                        "startOffset": 3594,
                         "endColumn": 89,
-                        "endOffset": 3620
+                        "endOffset": 3681
                     }
                 }
             },
@@ -1151,13 +1151,13 @@
                     "endOffset": 3862
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 2,
-                        "startOffset": 3623,
+                        "startOffset": 3685,
                         "endColumn": 81,
-                        "endOffset": 3702
+                        "endOffset": 3764
                     }
                 }
             },
@@ -1170,13 +1170,13 @@
                     "endOffset": 3932
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 2,
-                        "startOffset": 3705,
+                        "startOffset": 3768,
                         "endColumn": 67,
-                        "endOffset": 3770
+                        "endOffset": 3833
                     }
                 }
             },
@@ -1189,13 +1189,13 @@
                     "endOffset": 3978
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 2,
-                        "startOffset": 3773,
+                        "startOffset": 3837,
                         "endColumn": 43,
-                        "endOffset": 3814
+                        "endOffset": 3878
                     }
                 }
             },
@@ -1208,13 +1208,13 @@
                     "endOffset": 4030
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 2,
-                        "startOffset": 3817,
+                        "startOffset": 3882,
                         "endColumn": 49,
-                        "endOffset": 3864
+                        "endOffset": 3929
                     }
                 }
             },
@@ -1227,13 +1227,13 @@
                     "endOffset": 4102
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 2,
-                        "startOffset": 3867,
+                        "startOffset": 3933,
                         "endColumn": 69,
-                        "endOffset": 3934
+                        "endOffset": 4000
                     }
                 }
             },
@@ -1246,13 +1246,13 @@
                     "endOffset": 4180
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 2,
-                        "startOffset": 3937,
+                        "startOffset": 4004,
                         "endColumn": 75,
-                        "endOffset": 4010
+                        "endOffset": 4077
                     }
                 }
             },
@@ -1265,13 +1265,13 @@
                     "endOffset": 4324
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 2,
-                        "startOffset": 4013,
+                        "startOffset": 4081,
                         "endColumn": 141,
-                        "endOffset": 4152
+                        "endOffset": 4220
                     }
                 }
             },
@@ -1284,13 +1284,13 @@
                     "endOffset": 4401
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 2,
-                        "startOffset": 4155,
+                        "startOffset": 4224,
                         "endColumn": 74,
-                        "endOffset": 4227
+                        "endOffset": 4296
                     }
                 }
             },
@@ -1303,13 +1303,13 @@
                     "endOffset": 4452
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 2,
-                        "startOffset": 4230,
+                        "startOffset": 4300,
                         "endColumn": 48,
-                        "endOffset": 4276
+                        "endOffset": 4346
                     }
                 }
             },
@@ -1322,13 +1322,13 @@
                     "endOffset": 4534
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 2,
-                        "startOffset": 4279,
+                        "startOffset": 4350,
                         "endColumn": 79,
-                        "endOffset": 4356
+                        "endOffset": 4427
                     }
                 }
             },
@@ -1341,13 +1341,13 @@
                     "endOffset": 4618
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 2,
-                        "startOffset": 4359,
+                        "startOffset": 4431,
                         "endColumn": 81,
-                        "endOffset": 4438
+                        "endOffset": 4510
                     }
                 }
             },
@@ -1360,13 +1360,13 @@
                     "endOffset": 4690
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 2,
-                        "startOffset": 4441,
+                        "startOffset": 4514,
                         "endColumn": 69,
-                        "endOffset": 4508
+                        "endOffset": 4581
                     }
                 }
             },
@@ -1379,13 +1379,13 @@
                     "endOffset": 4779
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 2,
-                        "startOffset": 4511,
+                        "startOffset": 4585,
                         "endColumn": 86,
-                        "endOffset": 4595
+                        "endOffset": 4669
                     }
                 }
             },
@@ -1398,13 +1398,13 @@
                     "endOffset": 4878
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 2,
-                        "startOffset": 4598,
+                        "startOffset": 4673,
                         "endColumn": 96,
-                        "endOffset": 4692
+                        "endOffset": 4767
                     }
                 }
             },
@@ -1417,13 +1417,13 @@
                     "endOffset": 4949
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 2,
-                        "startOffset": 4695,
+                        "startOffset": 4771,
                         "endColumn": 68,
-                        "endOffset": 4761
+                        "endOffset": 4837
                     }
                 }
             },
@@ -1436,13 +1436,13 @@
                     "endOffset": 5031
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 2,
-                        "startOffset": 4764,
+                        "startOffset": 4841,
                         "endColumn": 79,
-                        "endOffset": 4841
+                        "endOffset": 4918
                     }
                 }
             },
@@ -1455,13 +1455,13 @@
                     "endOffset": 5172
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 2,
-                        "startOffset": 4844,
+                        "startOffset": 4922,
                         "endColumn": 138,
-                        "endOffset": 4980
+                        "endOffset": 5058
                     }
                 }
             },
@@ -1474,13 +1474,13 @@
                     "endOffset": 5258
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 2,
-                        "startOffset": 4983,
+                        "startOffset": 5062,
                         "endColumn": 83,
-                        "endOffset": 5064
+                        "endOffset": 5143
                     }
                 }
             },
@@ -1493,13 +1493,13 @@
                     "endOffset": 5339
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 2,
-                        "startOffset": 5067,
+                        "startOffset": 5147,
                         "endColumn": 78,
-                        "endOffset": 5143
+                        "endOffset": 5223
                     }
                 }
             },
@@ -1512,13 +1512,13 @@
                     "endOffset": 5414
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 2,
-                        "startOffset": 5146,
+                        "startOffset": 5227,
                         "endColumn": 72,
-                        "endOffset": 5216
+                        "endOffset": 5297
                     }
                 }
             },
@@ -1531,13 +1531,13 @@
                     "endOffset": 5479
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 2,
-                        "startOffset": 5219,
+                        "startOffset": 5301,
                         "endColumn": 62,
-                        "endOffset": 5279
+                        "endOffset": 5361
                     }
                 }
             },
@@ -1550,13 +1550,13 @@
                     "endOffset": 5556
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 2,
-                        "startOffset": 5282,
+                        "startOffset": 5365,
                         "endColumn": 74,
-                        "endOffset": 5354
+                        "endOffset": 5437
                     }
                 }
             },
@@ -1569,13 +1569,13 @@
                     "endOffset": 5627
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 2,
-                        "startOffset": 5357,
+                        "startOffset": 5441,
                         "endColumn": 68,
-                        "endOffset": 5423
+                        "endOffset": 5507
                     }
                 }
             },
@@ -1588,13 +1588,13 @@
                     "endOffset": 5692
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 2,
-                        "startOffset": 5426,
+                        "startOffset": 5511,
                         "endColumn": 62,
-                        "endOffset": 5486
+                        "endOffset": 5571
                     }
                 }
             },
@@ -1607,13 +1607,13 @@
                     "endOffset": 5784
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 2,
-                        "startOffset": 5489,
+                        "startOffset": 5575,
                         "endColumn": 89,
-                        "endOffset": 5576
+                        "endOffset": 5662
                     }
                 }
             },
@@ -1626,13 +1626,13 @@
                     "endOffset": 5879
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 2,
-                        "startOffset": 5579,
+                        "startOffset": 5666,
                         "endColumn": 92,
-                        "endOffset": 5669
+                        "endOffset": 5756
                     }
                 }
             },
@@ -1645,13 +1645,13 @@
                     "endOffset": 5981
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 2,
-                        "startOffset": 5672,
+                        "startOffset": 5760,
                         "endColumn": 99,
-                        "endOffset": 5769
+                        "endOffset": 5857
                     }
                 }
             },
@@ -1664,13 +1664,13 @@
                     "endOffset": 6072
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 2,
-                        "startOffset": 5772,
+                        "startOffset": 5861,
                         "endColumn": 88,
-                        "endOffset": 5858
+                        "endOffset": 5947
                     }
                 }
             },
@@ -1683,13 +1683,13 @@
                     "endOffset": 6147
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 2,
-                        "startOffset": 5861,
+                        "startOffset": 5951,
                         "endColumn": 72,
-                        "endOffset": 5931
+                        "endOffset": 6021
                     }
                 }
             },
@@ -1702,13 +1702,13 @@
                     "endOffset": 6222
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 2,
-                        "startOffset": 5934,
+                        "startOffset": 6025,
                         "endColumn": 72,
-                        "endOffset": 6004
+                        "endOffset": 6095
                     }
                 }
             },
@@ -1721,13 +1721,13 @@
                     "endOffset": 6289
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 2,
-                        "startOffset": 6234,
+                        "startOffset": 6328,
                         "endColumn": 64,
-                        "endOffset": 6296
+                        "endOffset": 6390
                     }
                 }
             },
@@ -1740,13 +1740,13 @@
                     "endOffset": 6349
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 2,
-                        "startOffset": 6299,
+                        "startOffset": 6394,
                         "endColumn": 57,
-                        "endOffset": 6354
+                        "endOffset": 6449
                     }
                 }
             },
@@ -1759,13 +1759,13 @@
                     "endOffset": 6407
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 2,
-                        "startOffset": 6357,
+                        "startOffset": 6453,
                         "endColumn": 55,
-                        "endOffset": 6410
+                        "endOffset": 6506
                     }
                 }
             },
@@ -1778,13 +1778,13 @@
                     "endOffset": 6564
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 2,
-                        "startOffset": 6007,
+                        "startOffset": 6099,
                         "endColumn": 154,
-                        "endOffset": 6159
+                        "endOffset": 6251
                     }
                 }
             },
@@ -1797,13 +1797,13 @@
                     "endOffset": 6638
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 2,
-                        "startOffset": 6162,
+                        "startOffset": 6255,
                         "endColumn": 71,
-                        "endOffset": 6231
+                        "endOffset": 6324
                     }
                 }
             },
@@ -1816,13 +1816,13 @@
                     "endOffset": 6709
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 2,
-                        "startOffset": 6413,
+                        "startOffset": 6510,
                         "endColumn": 68,
-                        "endOffset": 6479
+                        "endOffset": 6576
                     }
                 }
             },
@@ -1835,13 +1835,13 @@
                     "endOffset": 6793
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 2,
-                        "startOffset": 6482,
+                        "startOffset": 6580,
                         "endColumn": 81,
-                        "endOffset": 6561
+                        "endOffset": 6659
                     }
                 }
             },
@@ -1854,13 +1854,13 @@
                     "endOffset": 6862
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 2,
-                        "startOffset": 6564,
+                        "startOffset": 6663,
                         "endColumn": 66,
-                        "endOffset": 6628
+                        "endOffset": 6727
                     }
                 }
             },
@@ -1873,13 +1873,13 @@
                     "endOffset": 6998
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 2,
-                        "startOffset": 6699,
+                        "startOffset": 6800,
                         "endColumn": 133,
-                        "endOffset": 6830
+                        "endOffset": 6931
                     }
                 }
             },
@@ -1892,13 +1892,13 @@
                     "endOffset": 7068
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 2,
-                        "startOffset": 6631,
+                        "startOffset": 6731,
                         "endColumn": 67,
-                        "endOffset": 6696
+                        "endOffset": 6796
                     }
                 }
             },
@@ -1911,13 +1911,13 @@
                     "endOffset": 7122
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 2,
-                        "startOffset": 6835,
+                        "startOffset": 6937,
                         "endColumn": 51,
-                        "endOffset": 6884
+                        "endOffset": 6986
                     }
                 }
             },
@@ -1930,13 +1930,13 @@
                     "endOffset": 7202
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 2,
-                        "startOffset": 6887,
+                        "startOffset": 6990,
                         "endColumn": 77,
-                        "endOffset": 6962
+                        "endOffset": 7065
                     }
                 }
             },
@@ -1949,13 +1949,13 @@
                     "endOffset": 7263
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 2,
-                        "startOffset": 6965,
+                        "startOffset": 7069,
                         "endColumn": 58,
-                        "endOffset": 7021
+                        "endOffset": 7125
                     }
                 }
             },
@@ -1968,13 +1968,13 @@
                     "endOffset": 7383
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 2,
-                        "startOffset": 7024,
+                        "startOffset": 7129,
                         "endColumn": 117,
-                        "endOffset": 7139
+                        "endOffset": 7244
                     }
                 }
             },
@@ -1987,13 +1987,13 @@
                     "endOffset": 7469
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 2,
-                        "startOffset": 7142,
+                        "startOffset": 7248,
                         "endColumn": 83,
-                        "endOffset": 7223
+                        "endOffset": 7329
                     }
                 }
             },
@@ -2006,13 +2006,13 @@
                     "endOffset": 7538
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 2,
-                        "startOffset": 7226,
+                        "startOffset": 7333,
                         "endColumn": 66,
-                        "endOffset": 7290
+                        "endOffset": 7397
                     }
                 }
             },
@@ -2025,13 +2025,13 @@
                     "endOffset": 7634
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 2,
-                        "startOffset": 7293,
+                        "startOffset": 7401,
                         "endColumn": 93,
-                        "endOffset": 7384
+                        "endOffset": 7492
                     }
                 }
             },
@@ -2044,13 +2044,13 @@
                     "endOffset": 7704
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 2,
-                        "startOffset": 7387,
+                        "startOffset": 7496,
                         "endColumn": 67,
-                        "endOffset": 7452
+                        "endOffset": 7561
                     }
                 }
             },
@@ -2063,13 +2063,13 @@
                     "endOffset": 7825
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 2,
-                        "startOffset": 7455,
+                        "startOffset": 7565,
                         "endColumn": 118,
-                        "endOffset": 7571
+                        "endOffset": 7681
                     }
                 }
             },
@@ -2082,13 +2082,13 @@
                     "endOffset": 7903
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 2,
-                        "startOffset": 7574,
+                        "startOffset": 7685,
                         "endColumn": 75,
-                        "endOffset": 7647
+                        "endOffset": 7758
                     }
                 }
             },
@@ -2101,13 +2101,13 @@
                     "endOffset": 7965
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 2,
-                        "startOffset": 7650,
+                        "startOffset": 7762,
                         "endColumn": 59,
-                        "endOffset": 7707
+                        "endOffset": 7819
                     }
                 }
             },
@@ -2120,13 +2120,13 @@
                     "endOffset": 8032
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 2,
-                        "startOffset": 7710,
+                        "startOffset": 7823,
                         "endColumn": 64,
-                        "endOffset": 7772
+                        "endOffset": 7885
                     }
                 }
             },
@@ -2139,13 +2139,13 @@
                     "endOffset": 8097
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 2,
-                        "startOffset": 7775,
+                        "startOffset": 7889,
                         "endColumn": 62,
-                        "endOffset": 7835
+                        "endOffset": 7949
                     }
                 }
             },
@@ -2158,13 +2158,13 @@
                     "endOffset": 8166
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 2,
-                        "startOffset": 7838,
+                        "startOffset": 7953,
                         "endColumn": 66,
-                        "endOffset": 7902
+                        "endOffset": 8017
                     }
                 }
             },
@@ -2177,13 +2177,13 @@
                     "endOffset": 8234
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 2,
-                        "startOffset": 7905,
+                        "startOffset": 8021,
                         "endColumn": 65,
-                        "endOffset": 7968
+                        "endOffset": 8084
                     }
                 }
             },
@@ -2196,13 +2196,13 @@
                     "endOffset": 8285
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 2,
-                        "startOffset": 7971,
+                        "startOffset": 8088,
                         "endColumn": 48,
-                        "endOffset": 8017
+                        "endOffset": 8134
                     }
                 }
             },
@@ -2215,13 +2215,13 @@
                     "endOffset": 8342
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 2,
-                        "startOffset": 8020,
+                        "startOffset": 8138,
                         "endColumn": 54,
-                        "endOffset": 8072
+                        "endOffset": 8190
                     }
                 }
             },
@@ -2234,13 +2234,13 @@
                     "endOffset": 8399
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 2,
-                        "startOffset": 8075,
+                        "startOffset": 8194,
                         "endColumn": 54,
-                        "endOffset": 8127
+                        "endOffset": 8246
                     }
                 }
             },
@@ -2253,13 +2253,13 @@
                     "endOffset": 8457
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 2,
-                        "startOffset": 8130,
+                        "startOffset": 8250,
                         "endColumn": 55,
-                        "endOffset": 8183
+                        "endOffset": 8303
                     }
                 }
             },
@@ -2272,13 +2272,13 @@
                     "endOffset": 8514
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 2,
-                        "startOffset": 8186,
+                        "startOffset": 8307,
                         "endColumn": 54,
-                        "endOffset": 8238
+                        "endOffset": 8359
                     }
                 }
             },
@@ -2291,13 +2291,13 @@
                     "endOffset": 8563
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 2,
-                        "startOffset": 8241,
+                        "startOffset": 8363,
                         "endColumn": 46,
-                        "endOffset": 8285
+                        "endOffset": 8407
                     }
                 }
             },
@@ -2310,13 +2310,13 @@
                     "endOffset": 8628
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 2,
-                        "startOffset": 8288,
+                        "startOffset": 8411,
                         "endColumn": 62,
-                        "endOffset": 8348
+                        "endOffset": 8471
                     }
                 }
             },
@@ -2329,13 +2329,13 @@
                     "endOffset": 8684
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 2,
-                        "startOffset": 8351,
+                        "startOffset": 8475,
                         "endColumn": 53,
-                        "endOffset": 8402
+                        "endOffset": 8526
                     }
                 }
             },
@@ -2348,13 +2348,13 @@
                     "endOffset": 8773
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 2,
-                        "startOffset": 8405,
+                        "startOffset": 8530,
                         "endColumn": 86,
-                        "endOffset": 8489
+                        "endOffset": 8614
                     }
                 }
             }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\Rye\\Desktop\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "F:\\Android_file\\SharingTheGym\\lib_zxing-master\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 295,
                         "endColumn": 57,
-                        "endOffset": 344
+                        "endOffset": 348
                     }
                 }
             }
