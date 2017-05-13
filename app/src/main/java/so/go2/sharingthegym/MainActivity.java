@@ -110,7 +110,6 @@ public class MainActivity extends CheckPermissionsActivity
         if (id == R.id.action_settings) {
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
@@ -120,7 +119,9 @@ public class MainActivity extends CheckPermissionsActivity
         int id = item.getItemId();
 
         if (id == R.id.plan) {
-
+            //训练记录
+            Intent intent = new Intent(this,DataRecordActivity.class);
+            startActivity(intent);
         } else if (id == R.id.fitnessGuide) {
 
         } else if (id == R.id.wallet) {
@@ -309,7 +310,7 @@ public class MainActivity extends CheckPermissionsActivity
     private void initAddMarker() {
         MarkerOptions markerOption = new MarkerOptions();
         markerOption.icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_menu_send));
-        markerOption.position(new LatLng(106.604471, 29.532775));
+//        markerOption.position(new LatLng(106.604471, 29.532775));
         markerOption.draggable(true);  //设置Marker覆盖物是否可拖拽
         Marker marker = amap.addMarker(markerOption);
 

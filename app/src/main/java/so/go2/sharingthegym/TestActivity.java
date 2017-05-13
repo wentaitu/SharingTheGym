@@ -1,19 +1,13 @@
 package so.go2.sharingthegym;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
 import com.amap.api.maps.AMap;
 import com.amap.api.maps.MapView;
-import com.amap.api.maps.model.BitmapDescriptorFactory;
-import com.amap.api.maps.model.LatLng;
-import com.amap.api.maps.model.Marker;
-import com.amap.api.maps.model.MarkerOptions;
-
-import so.go2.sharingthegym.net.MyHttpURL;
 
 public class TestActivity extends AppCompatActivity {
 
@@ -43,12 +37,13 @@ public class TestActivity extends AppCompatActivity {
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                MyHttpURL.get("http://139.199.63.27/cs.php", new MyHttpURL.Callback() {
-                    @Override
-                    public void onResponse(String response) {
-                        msg.setText(response);
-                    }
-                });
+                //TODO 提交完成记录
+//                MyHttpURL.get("http://139.199.63.27/cs.php", new MyHttpURL.Callback() {
+//                    @Override
+//                    public void onResponse(String response) {
+//                        msg.setText(response);
+//                    }
+//                });
             }
         });
 

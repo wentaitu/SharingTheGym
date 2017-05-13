@@ -44,12 +44,13 @@
 
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="9558c55e37ef7e268863eb30977a8ce6" />
+            android:value="c09269061a10b5b434eaf8ea9410357b" />
 
         <service android:name="com.amap.api.location.APSService" />
 
         <activity android:name=".TestActivity" />
         <activity android:name=".PayActivity"></activity>
+        <activity android:name=".DataRecordActivity"></activity>
     </application>
 
 </manifest>
